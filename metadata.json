@@ -1,0 +1,6 @@
+{
+  "name": "AfghanSoft | افغان سافت",
+  "description": "افغان سافت | طراحی دیتابیس، وب‌اپلیکیشن و سیستم‌های اختصاصی برای کسب‌وکارهای مدرن به مدیریت عزت الله ایوبی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
